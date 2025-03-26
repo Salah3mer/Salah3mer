@@ -50,7 +50,7 @@
 <br/>
 ### GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salah3mer20&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salah3mer&theme=radical)
 
 <br/>
 <br/>
