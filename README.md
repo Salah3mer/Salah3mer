@@ -62,7 +62,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/salah3mer/salah3mer/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/salah3mer/salah3mer/output/snake-dark.svg?palette=github-dark" alt="Snake animation dark" />
 </div>
 
 ---
