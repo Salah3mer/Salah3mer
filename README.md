@@ -52,7 +52,7 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<div align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=salah3mer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salah3mer&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
 </div>
