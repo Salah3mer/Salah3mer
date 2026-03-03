@@ -51,14 +51,14 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
+<p align="start">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=salah3mer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=1800" 
-    height="165"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=salah3mer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" 
+    height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah3mer&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800" 
-    height="165"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=salah3mer&layout=compact&langs_count=6&theme=dracula&hide_border=false" 
+    height="160"
   />
 </p>
 ---
