@@ -39,8 +39,8 @@
 
 ### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,c,csharp,java,kotlin&perline=6)](https://skillicons.dev)  
-[![My Tools](https://skillicons.dev/icons?i=firebase,github,git,postman,figma,xd&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,c,cs,java,kotlin&perline=6)](https://skillicons.dev)  
+[![My Tools](https://skillicons.dev/icons?i=firebase,graphql,sqlite,github,git,figma&perline=6)](https://skillicons.dev)
 
 ---
 
